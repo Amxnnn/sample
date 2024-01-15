@@ -1,5 +1,5 @@
 # Project1
 
-Author- Aman Kamboj
+Author- Aman
 <br>
 This is my first Repository
